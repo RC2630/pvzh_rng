@@ -3,12 +3,13 @@
 Here is a list of available commands:
 - `/draw`
 - `/draw <count>`
-- `/conjure <key:value...>`
-- `/conjure <key:value...> <count>`
+- `/conjure <key:value...> <amphibious?> <gravestone?> <superpower?>`
+- `/conjure <key:value...> <amphibious?> <gravestone?> <superpower?> <count>`
 - `/ping`
 - `/block`
 - `/shuffle <card> <copies>`
 - `/start`
+- `/end`
 - `/randint <max>`
 
 Here is an example of the deck format used in `input/deck.txt`:
