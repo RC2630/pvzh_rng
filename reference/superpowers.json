@@ -1,0 +1,138 @@
+{
+    "superpowers": [
+        {
+            "Green Shadows": [
+                "Precision Blast",
+                "Embiggen",
+                "Big Chill",
+                "Whirlwind"
+            ],
+            "Chompzilla": [
+                "Devour",
+                "Holo-Flora",
+                "Geyser",
+                "Scorched Earth"
+            ],
+            "Captain Combustible": [
+                "Blazing Bark",
+                "Embiggen",
+                "Time to Shine",
+                "Meteor Strike"
+            ],
+            "Grass Knuckles": [
+                "Power Pummel",
+                "Holo-Flora",
+                "Time to Shine",
+                "Root Wall"
+            ],
+            "Rose": [
+                "Goatify",
+                "Big Chill",
+                "Transmogrify",
+                "Weed Whack"
+            ],
+            "Nightcap": [
+                "Mush-Boom",
+                "Whirlwind",
+                "More Spore",
+                "Storm Front"
+            ],
+            "Citron": [
+                "Peel Shield",
+                "Transmogrify",
+                "Nut Signal",
+                "Root Wall"
+            ],
+            "Beta-Carrotina": [
+                "Genetic Amplification",
+                "Ensign Uproot",
+                "Lieutenant Carrotron",
+                "Lightspeed Seed"
+            ],
+            "Solar Flare": [
+                "Sunburn",
+                "Scorched Earth",
+                "Weed Whack",
+                "More Spore"
+            ],
+            "Wall-Knight": [
+                "Uncrackable",
+                "Geyser",
+                "Bubble Up",
+                "Nut Signal"
+            ],
+            "Spudow": [
+                "Tater Toss",
+                "Meteor Strike",
+                "Storm Front",
+                "Bubble Up"
+            ],
+            "Super Brainz": [
+                "Carried Away",
+                "Cut Down to Size",
+                "Telepathy",
+                "Super Stench"
+            ],
+            "Huge-Gigantacus": [
+                "Terror-Former 10,000",
+                "Teleportation Station",
+                "Ice Moon",
+                "Iron Boarder"
+            ],
+            "Professor Brainstorm": [
+                "Eureka",
+                "Summoning",
+                "Telepathy",
+                "Dance Off"
+            ],
+            "Immorticia": [
+                "Witch's Familiar",
+                "Summoning",
+                "Acid Rain",
+                "Evaporate"
+            ],
+            "Rustbolt": [
+                "Shrink Ray",
+                "Cut Down to Size",
+                "Heroic Health",
+                "Rock Wall"
+            ],
+            "Impfinity": [
+                "Triple Threat",
+                "In-Crypted",
+                "Super Stench",
+                "Brute Strength"
+            ],
+            "Brain Freeze": [
+                "Frozen Tundra",
+                "Dolphinado",
+                "Acid Rain",
+                "Galvanize"
+            ],
+            "Neptuna": [
+                "Octo-Pult",
+                "Dolphinado",
+                "In-Crypted",
+                "Possessed"
+            ],
+            "Electric Boogaloo": [
+                "Stayin' Alive",
+                "Dance Off",
+                "Electrobolt",
+                "Evaporate"
+            ],
+            "Z-Mech": [
+                "Missile Madness",
+                "Brute Strength",
+                "Electrobolt",
+                "Rock Wall"
+            ],
+            "The Smash": [
+                "Slammin' Smackdown",
+                "Galvanize",
+                "Heroic Health",
+                "Possessed"
+            ]
+        }
+    ]
+}
