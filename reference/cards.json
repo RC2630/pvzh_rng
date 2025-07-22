@@ -93,7 +93,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -129,7 +129,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -189,7 +189,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -213,7 +213,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -249,7 +249,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -273,7 +273,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -393,7 +393,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -429,7 +429,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -453,7 +453,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -465,7 +465,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -717,7 +717,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -789,7 +789,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -825,7 +825,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -838,7 +838,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Squirrel Herder",
@@ -850,7 +850,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Synchronized Swimmer",
@@ -861,7 +861,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -921,7 +921,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -934,7 +934,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Vimpire",
@@ -981,7 +981,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -1065,7 +1065,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -1089,7 +1089,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -1125,7 +1125,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -1161,7 +1161,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -1174,7 +1174,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Fraidy Cat",
@@ -1197,7 +1197,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -2002,7 +2002,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Transformation Station",
@@ -2026,7 +2026,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Brain Vendor",
@@ -2050,7 +2050,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Fun-Dead Raiser",
@@ -2074,7 +2074,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Kite Flyer",
@@ -2086,7 +2086,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Medulla Nebula",
@@ -2158,7 +2158,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Wormhole Gatekeeper",
@@ -2206,7 +2206,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Mountain Climber",
@@ -3154,7 +3154,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Cuckoo Zombie",
@@ -3214,7 +3214,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Space Ninja",
@@ -3262,7 +3262,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Disco Zombie",
@@ -3286,7 +3286,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Gizzard Lizard",
@@ -3310,7 +3310,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Unexpected Gifts",
@@ -3394,7 +3394,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Flamenco Zombie",
@@ -3454,7 +3454,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Gas Giant",
@@ -3633,7 +3633,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3657,7 +3657,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3669,7 +3669,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3765,7 +3765,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3777,7 +3777,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3801,7 +3801,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3837,7 +3837,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3921,7 +3921,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3933,7 +3933,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3945,7 +3945,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3969,7 +3969,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -3981,7 +3981,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4089,7 +4089,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4113,7 +4113,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4125,7 +4125,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4197,7 +4197,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4221,7 +4221,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4233,7 +4233,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4245,7 +4245,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -4450,7 +4450,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Terrify",
@@ -4534,7 +4534,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Lost Colosseum",
@@ -4570,7 +4570,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Weed Spray",
@@ -4690,7 +4690,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Coffee Zombie",
@@ -4750,7 +4750,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Knight of the Living Dead",
@@ -4774,7 +4774,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Wannabe Hero",
@@ -4834,7 +4834,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Intergalactic Warlord",
@@ -5445,7 +5445,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5469,7 +5469,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5601,7 +5601,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5638,7 +5638,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Imp-Throwing Imp",
@@ -5662,7 +5662,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Swashbuckler Zombie",
@@ -5674,7 +5674,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Toxic Waste Imp",
@@ -5685,7 +5685,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5722,7 +5722,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Imp Commander",
@@ -5734,7 +5734,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Laser Base Alpha",
@@ -5758,7 +5758,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Smelly Zombie",
@@ -5770,7 +5770,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Space Pirate",
@@ -5794,7 +5794,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Barrel Roller Zombie",
@@ -5818,7 +5818,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Pogo Bouncer",
@@ -5830,7 +5830,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Blowgun Imp",
@@ -5854,7 +5854,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Mixed-Up Gravedigger",
@@ -5878,7 +5878,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Walrus Rider",
@@ -5889,7 +5889,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5902,7 +5902,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Zombot Aerostatic Gondola",
@@ -5913,7 +5913,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5937,7 +5937,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5974,7 +5974,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Space Cowboy",
@@ -5985,7 +5985,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -5998,7 +5998,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Trapper Zombie",
@@ -6010,7 +6010,7 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": true
         },
         {
             "name": "Unthawed Viking",
@@ -6021,7 +6021,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -6033,7 +6033,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -6105,7 +6105,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -6117,7 +6117,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
@@ -6129,7 +6129,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": false,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
