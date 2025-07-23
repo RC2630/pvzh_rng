@@ -6321,7 +6321,7 @@
             "cost": -1,
             "rarity": "",
             "superpower": true,
-            "amphibious": false,
+            "amphibious": true,
             "gravestone": false
         },
         {
