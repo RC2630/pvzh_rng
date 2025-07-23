@@ -71,7 +71,61 @@ def test_deck(args: list[str]) -> str:
 # --------------------------------------------------------------------
 
 def start() -> None:
-    raise NotImplementedError
+    
+    global DECK, SUPERPOWERS
+
+    def reroll_msg(i: int) -> str:
+        return "" if slots[i]["rerolled"] else " (available for reroll)"
+
+    def get_reroll_input() -> str:
+        response: str = input("\nEnter the slot number for the card that you want to reroll, "
+                              "or \"pass\" to start the match: ")
+        acceptable_responses: list[str] = [str(slot) for slot in rerollable_slots] + ["pass"]
+        while response not in acceptable_responses:
+            response = input("That is not valid. Try again: ")
+        return response
+
+    slots: dict[int, dict[str, Any]] = {
+        i: {"card": "", "rerolled": False} for i in range(1, 5)
+    }
+
+    for i in range(1, 5):
+        ri: int = random_index(DECK)
+        card: str = DECK[ri]
+        del DECK[ri]
+        slots[i]["card"] = card
+
+    print(f"\nYour starting four cards are:\n")
+    for i in range(1, 5):
+        print(f"{i}: {slots[i]["card"]}{reroll_msg(i)}")
+
+    rerollable_slots: list[int] = list(range(1, 5))
+    reroll_input: str = get_reroll_input()
+    
+    while reroll_input != "pass":
+
+        reroll_slot: int = int(reroll_input)
+        ri_reroll: int = random_index(DECK)
+        card_reroll: str = DECK[ri_reroll]
+        del DECK[ri_reroll]
+        DECK.append(slots[reroll_slot]["card"])
+        slots[reroll_slot]["card"] = card_reroll
+        slots[reroll_slot]["rerolled"] = True
+        del rerollable_slots[rerollable_slots.index(reroll_slot)]
+
+        print(f"\nYour new starting four cards are:\n")
+        for i in range(1, 5):
+            print(f"{i}: {slots[i]["card"]}{reroll_msg(i)}")
+
+        if not all([slots[i]["rerolled"] for i in range(1, 5)]):
+            reroll_input = get_reroll_input()
+        else:
+            reroll_input = "pass"
+
+    super_ri = random_index(SUPERPOWERS)
+    starting_superpower: str = SUPERPOWERS[super_ri]
+    del SUPERPOWERS[super_ri]
+    print(f"\nYour starting superpower is {starting_superpower}.")
 
 # --------------------------------------------------------------------
 
