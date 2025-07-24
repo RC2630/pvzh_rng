@@ -5,11 +5,11 @@
 - `/draw <count>`: draw `count` cards
 - `/conjure <key:value...> <amphibious?> <gravestone?> <superpower?>`: conjure 1 card
 - `/conjure <key:value...> <amphibious?> <gravestone?> <superpower?> <count>`: conjure `count` cards
-- `/ping`: hit the hero once (returns the increase in super block meter charges)
+- `/ping`: hit the hero once (and return the increase in super block meter charges)
 - `/block`: give the superpower obtained when the hero super-blocks
 - `/shuffle <card> <copies>`: shuffle `copies` copies of `card` into the deck
 - `/start`: start the match (initial 4 cards + redraws + initial superpower)
-- `/end`: end the match (and terminates the program)
+- `/end`: end the match (and terminate the program)
 - `/randint <max>`: generate a random integer between 1 and `max` (inclusive)
 
 ### Details on conjuring:
