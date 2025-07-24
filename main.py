@@ -19,9 +19,10 @@ class Card:
         self.is_superpower: bool = info["superpower"]
         self.is_amphibious: bool = info["amphibious"]
         self.is_gravestone: bool = info["gravestone"]
+        self.is_conjurable: bool = info["conjurable"]
 
     def is_available(self: Card) -> bool:
-        return self.cost != -1
+        return self.cost != -1 and self.is_conjurable
     
     def has_one_of_tribes(self: Card, acceptable_tribes: list[str]) -> bool:
         for tribe in acceptable_tribes:

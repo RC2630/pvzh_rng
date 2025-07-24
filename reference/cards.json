@@ -10,7 +10,8 @@
             "rarity": "event",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Garlic",
@@ -22,7 +23,8 @@
             "rarity": "event",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grape Responsibility",
@@ -34,7 +36,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Photosynthesizer",
@@ -46,7 +49,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Potato Mine",
@@ -58,7 +62,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Primal Potato Mine",
@@ -70,7 +75,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Small Nut",
@@ -82,7 +88,8 @@
             "rarity": "common",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sting Bean",
@@ -94,7 +101,8 @@
             "rarity": "common",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Wall-Nut",
@@ -106,7 +114,8 @@
             "rarity": "common",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cactus",
@@ -118,7 +127,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Corn Dog",
@@ -130,7 +140,8 @@
             "rarity": "event",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gardening Gloves",
@@ -142,7 +153,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grave Buster",
@@ -154,7 +166,8 @@
             "rarity": "rare",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Jugger-Nut",
@@ -166,7 +179,8 @@
             "rarity": "super-rare",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pismashio",
@@ -178,7 +192,8 @@
             "rarity": "common",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sea-Shroom",
@@ -190,7 +205,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Spikeweed Sector",
@@ -202,7 +218,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Water Chestnut",
@@ -214,7 +231,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Health-Nut",
@@ -226,7 +244,8 @@
             "rarity": "event",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hibernating Beary",
@@ -238,7 +257,8 @@
             "rarity": "rare",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Marine Bean",
@@ -250,7 +270,8 @@
             "rarity": "super-rare",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pea-Nut",
@@ -262,7 +283,8 @@
             "rarity": "uncommon",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pear Cub",
@@ -274,7 +296,8 @@
             "rarity": "event",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Plantern",
@@ -286,7 +309,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Primal Wall-Nut",
@@ -298,7 +322,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pumpkin Shell",
@@ -310,7 +335,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Spineapple",
@@ -322,7 +348,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Steel Magnolia",
@@ -334,7 +361,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Three-Nut",
@@ -346,7 +374,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Blockbuster",
@@ -358,7 +387,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Nut",
@@ -370,7 +400,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Force Field",
@@ -382,7 +413,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Guacodile",
@@ -394,7 +426,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Prickly Pear",
@@ -406,7 +439,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Starch-Lord",
@@ -418,7 +452,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Body-Gourd",
@@ -430,7 +465,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Doom-Shroom",
@@ -442,7 +478,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grizzly Pear",
@@ -454,7 +491,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Smackadamia",
@@ -466,7 +504,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tough Beets",
@@ -478,7 +517,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Soul Patch",
@@ -490,7 +530,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Wall-Nut Bowling",
@@ -502,7 +543,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Galacta-Cactus",
@@ -514,7 +556,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hot Date",
@@ -526,7 +569,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tricarrotops",
@@ -538,7 +582,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shamrocket",
@@ -550,7 +595,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mirror-Nut",
@@ -562,7 +608,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Red Stinger",
@@ -574,7 +621,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pecanolith",
@@ -586,7 +634,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gravitree",
@@ -598,7 +647,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Loco Coco",
@@ -610,7 +660,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Poppin' Poppies",
@@ -622,7 +673,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Goat",
@@ -634,7 +686,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cat Lady",
@@ -646,7 +699,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cheese Cutter",
@@ -658,7 +712,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Dog Walker",
@@ -670,7 +725,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Nibble",
@@ -682,7 +738,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Secret Agent",
@@ -694,7 +751,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Skunk Punk",
@@ -706,7 +764,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Snorkel Zombie",
@@ -718,7 +777,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Yeti Lunchbox",
@@ -730,7 +790,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Biodome Botanist",
@@ -742,7 +803,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cyborg Zombie",
@@ -754,7 +816,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Energy Drink Zombie",
@@ -766,7 +829,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Extinction Event",
@@ -778,7 +842,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Haunting Ghost",
@@ -790,7 +855,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Haunting Zombie",
@@ -802,7 +868,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hunting Grounds",
@@ -814,7 +881,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Killer Whale",
@@ -826,7 +894,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pied Piper",
@@ -838,7 +907,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Squirrel Herder",
@@ -850,7 +920,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Synchronized Swimmer",
@@ -862,7 +933,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Total Eclipse",
@@ -874,7 +946,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zookeeper",
@@ -886,7 +959,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Alien Ooze",
@@ -898,7 +972,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Area 22",
@@ -910,7 +985,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Dolphin Rider",
@@ -922,7 +998,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Loudmouth",
@@ -934,7 +1011,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Vimpire",
@@ -946,7 +1024,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Vitamin Z",
@@ -958,7 +1037,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombie Yeti",
@@ -970,7 +1050,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Ancient Vimpire",
@@ -982,7 +1063,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "B-flat",
@@ -994,7 +1076,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Yeti",
@@ -1006,7 +1089,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Kangaroo Rider",
@@ -1018,7 +1102,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Overstuffed Zombie",
@@ -1030,7 +1115,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Primordial Cheese Shover",
@@ -1042,7 +1128,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sneezing Zombie",
@@ -1054,7 +1141,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Surfer Zombie",
@@ -1066,7 +1154,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Locust Swarm",
@@ -1078,7 +1167,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mondo Bronto",
@@ -1090,7 +1180,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Smashing Gargantuar",
@@ -1102,7 +1193,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Vengeful Cyborg",
@@ -1114,7 +1206,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Deep Sea Gargantuar",
@@ -1126,7 +1219,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Maniacal Laugh",
@@ -1138,7 +1232,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gargantuar-Throwing Gargantuar",
@@ -1150,7 +1245,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Octo Zombie",
@@ -1162,7 +1258,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot 1000",
@@ -1174,7 +1271,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Fraidy Cat",
@@ -1186,7 +1284,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hover-Goat 3000",
@@ -1198,7 +1297,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Interstellar Bounty Hunter",
@@ -1210,7 +1310,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Supernova Gargantuar",
@@ -1222,7 +1323,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "King of the Grill",
@@ -1234,7 +1336,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Nurse Gargantuar",
@@ -1246,7 +1349,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Puff-Shroom",
@@ -1258,7 +1362,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Astro-Shroom",
@@ -1270,7 +1375,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Banana Bomb",
@@ -1282,7 +1388,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Button Mushroom",
@@ -1294,7 +1401,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "High-Voltage Currant",
@@ -1306,7 +1414,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hot Lava",
@@ -1318,7 +1427,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Poison Mushroom",
@@ -1330,7 +1440,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Reincarnation",
@@ -1342,7 +1453,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shroom for Two",
@@ -1354,7 +1466,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Veloci-Radish Hatchling",
@@ -1366,7 +1479,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Banana Launcher",
@@ -1378,7 +1492,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Berry Blast",
@@ -1390,7 +1505,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Buff-Shroom",
@@ -1402,7 +1518,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Seedling",
@@ -1414,7 +1531,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shelf Mushroom",
@@ -1426,7 +1544,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Wild Berry",
@@ -1438,7 +1557,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Berry Angry",
@@ -1450,7 +1570,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Mushroom",
@@ -1462,7 +1583,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cro-Magnolia",
@@ -1474,7 +1596,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Invasive Species",
@@ -1486,7 +1609,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mushroom Grotto",
@@ -1498,7 +1622,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mushroom Ringleader",
@@ -1510,7 +1635,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Poison Ivy",
@@ -1522,7 +1648,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Punish-Shroom",
@@ -1534,7 +1661,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Strawberrian",
@@ -1546,7 +1674,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zapricot",
@@ -1558,7 +1687,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pair of Pears",
@@ -1570,7 +1700,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pair Pearadise",
@@ -1582,7 +1713,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Petal-Morphosis",
@@ -1594,7 +1726,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pineclone",
@@ -1606,7 +1739,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Seargeant Strongberry",
@@ -1618,7 +1752,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sonic Bloom",
@@ -1630,7 +1765,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sour Grapes",
@@ -1642,7 +1778,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bluesberry",
@@ -1654,7 +1791,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lava Guava",
@@ -1666,7 +1804,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sizzle",
@@ -1678,7 +1817,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cherry Bomb",
@@ -1690,7 +1830,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Dandy Lion King",
@@ -1702,7 +1843,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Poison Oak",
@@ -1714,7 +1856,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grapes of Wrath",
@@ -1726,7 +1869,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Blooming Heart",
@@ -1738,7 +1882,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Fireweed",
@@ -1750,7 +1895,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Imitater",
@@ -1762,7 +1908,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Veloci-Radish Packmate",
@@ -1774,7 +1921,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Molekale",
@@ -1786,7 +1934,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Transfiguration",
@@ -1798,7 +1947,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Atomic Bombegranate",
@@ -1810,7 +1960,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Electric Blueberry",
@@ -1822,7 +1973,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gloom-Shroom",
@@ -1834,7 +1986,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Kernel Corn",
@@ -1846,7 +1999,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cardboard Robot Zombie",
@@ -1858,7 +2012,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Chimney Sweep",
@@ -1870,7 +2025,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mustache Waxer",
@@ -1882,7 +2038,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Neutron Imp",
@@ -1894,7 +2051,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Paparazzi Zombie",
@@ -1906,7 +2064,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Teleport",
@@ -1918,7 +2077,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Beam Me Up",
@@ -1930,7 +2090,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cell Phone Zombie",
@@ -1942,7 +2103,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Scientist",
@@ -1954,7 +2116,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cryo-Brain",
@@ -1966,7 +2129,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lurch for Lunch",
@@ -1978,7 +2142,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pool Shark",
@@ -1990,7 +2155,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Teleportation Zombie",
@@ -2002,7 +2168,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Transformation Station",
@@ -2014,7 +2181,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot Drone Engineer",
@@ -2026,7 +2194,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Brain Vendor",
@@ -2038,7 +2207,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Electrician",
@@ -2050,7 +2220,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Fun-Dead Raiser",
@@ -2062,7 +2233,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gentleman Zombie",
@@ -2074,7 +2246,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Kite Flyer",
@@ -2086,7 +2259,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Medulla Nebula",
@@ -2098,7 +2272,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Moonwalker",
@@ -2110,7 +2285,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mustache Monument",
@@ -2122,7 +2298,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Regifting Zombie",
@@ -2134,7 +2311,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Rocket Science",
@@ -2146,7 +2324,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Trick-or-Treater",
@@ -2158,7 +2337,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Wormhole Gatekeeper",
@@ -2170,7 +2350,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zom-Blob",
@@ -2182,7 +2363,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Drum Major",
@@ -2194,7 +2376,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mad Chemist",
@@ -2206,7 +2389,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Mountain Climber",
@@ -2218,7 +2402,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Triplication",
@@ -2230,7 +2415,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Coptor Commando",
@@ -2242,7 +2428,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gadget Scientist",
@@ -2254,7 +2441,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gargantuar Mime",
@@ -2266,7 +2454,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Quarterly Bonus",
@@ -2278,7 +2467,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shieldcrusher Viking",
@@ -2290,7 +2480,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hail-a-Copter",
@@ -2302,7 +2493,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Kitchen Sink Zombie",
@@ -2314,7 +2506,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Wizard Gargantuar",
@@ -2326,7 +2519,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bad Moon Rising",
@@ -2338,7 +2532,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Trickster",
@@ -2350,7 +2545,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Interdimensional Zombie",
@@ -2362,7 +2558,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Leprechaun Imp",
@@ -2374,7 +2571,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Evolutionary Leap",
@@ -2386,7 +2584,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Duckstache",
@@ -2398,7 +2597,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Parasol Zombie",
@@ -2410,7 +2610,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Thinking Cap",
@@ -2422,7 +2623,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Portal Technician",
@@ -2434,7 +2636,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot Dinotronic Mechasaur",
@@ -2446,7 +2649,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Banana Peel",
@@ -2458,7 +2662,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bonk Choy",
@@ -2470,7 +2675,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Clique Peas",
@@ -2482,7 +2688,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Half-Banana",
@@ -2494,7 +2701,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Party Thyme",
@@ -2506,7 +2714,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pea Pod",
@@ -2518,7 +2727,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Peashooter",
@@ -2530,7 +2740,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sweet Potato",
@@ -2542,7 +2753,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Torchwood",
@@ -2554,7 +2766,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Umbrella Leaf",
@@ -2566,7 +2779,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Black-Eyed Pea",
@@ -2578,7 +2792,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cabbage-Pult",
@@ -2590,7 +2805,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Coffee Grounds",
@@ -2602,7 +2818,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Doubled Mint",
@@ -2614,7 +2831,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Fire Peashooter",
@@ -2626,7 +2844,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pea Patch",
@@ -2638,7 +2857,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Split Pea",
@@ -2650,7 +2870,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sweet Pea",
@@ -2662,7 +2883,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Vegetation Mutation",
@@ -2674,7 +2896,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Captain Cucumber",
@@ -2686,7 +2909,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Pea",
@@ -2698,7 +2922,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Fertilize",
@@ -2710,7 +2935,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Flourish",
@@ -2722,7 +2948,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grow-Shroom",
@@ -2734,7 +2961,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Moonbean",
@@ -2746,7 +2974,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Repeater",
@@ -2758,7 +2987,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "The Podfather",
@@ -2770,7 +3000,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Typical Beanstalk",
@@ -2782,7 +3013,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Banana Split",
@@ -2794,7 +3026,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Plant Food",
@@ -2806,7 +3039,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Re-Peat Moss",
@@ -2818,7 +3052,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Savage Spinach",
@@ -2830,7 +3065,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Skyshooter",
@@ -2842,7 +3078,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Onion Rings",
@@ -2854,7 +3091,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pod Fighter",
@@ -2866,7 +3104,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Potted Powerhouse",
@@ -2878,7 +3117,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "The Red Plant-It",
@@ -2890,7 +3130,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Whipwine",
@@ -2902,7 +3143,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Apotatosaurus",
@@ -2914,7 +3156,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bamboozle",
@@ -2926,7 +3169,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Super-Phat Beets",
@@ -2938,7 +3182,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Espresso Fiesta",
@@ -2950,7 +3195,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lily of the Valley",
@@ -2962,7 +3208,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grape Power",
@@ -2974,7 +3221,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Muscle Sprout",
@@ -2986,7 +3234,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bananasaurus Rex",
@@ -2998,7 +3247,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gatling Pea",
@@ -3010,7 +3260,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Plucky Clover",
@@ -3022,7 +3273,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Backup Dancer",
@@ -3034,7 +3286,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bungee Plumber",
@@ -3046,7 +3299,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grave Robber",
@@ -3058,7 +3312,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Loose Cannon",
@@ -3070,7 +3325,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mystery Egg",
@@ -3082,7 +3338,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Quickdraw Con Man",
@@ -3094,7 +3351,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tennis Champ",
@@ -3106,7 +3364,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Trapper Territory",
@@ -3118,7 +3377,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Unlife of the Party",
@@ -3130,7 +3390,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Aerobics Instructor",
@@ -3142,7 +3403,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Conga Zombie",
@@ -3154,7 +3416,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Cuckoo Zombie",
@@ -3166,7 +3429,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Disco Dance Floor",
@@ -3178,7 +3442,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Final Mission",
@@ -3190,7 +3455,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Meteor Z",
@@ -3202,7 +3468,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Newspaper Zombie",
@@ -3214,7 +3481,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Space Ninja",
@@ -3226,7 +3494,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sugary Treat",
@@ -3238,7 +3507,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombie's Best Friend",
@@ -3250,7 +3520,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Abracadaver",
@@ -3262,7 +3533,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Disco Zombie",
@@ -3274,7 +3546,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Exploding Imp",
@@ -3286,7 +3559,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Gizzard Lizard",
@@ -3298,7 +3572,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Jester",
@@ -3310,7 +3585,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Unexpected Gifts",
@@ -3322,7 +3598,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot's Wrath",
@@ -3334,7 +3611,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cakesplosion",
@@ -3346,7 +3624,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Dancer",
@@ -3358,7 +3637,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Orchestra Conductor",
@@ -3370,7 +3650,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "The Chickening",
@@ -3382,7 +3663,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Binary Stars",
@@ -3394,7 +3676,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Flamenco Zombie",
@@ -3406,7 +3689,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Foot Soldier Zombie",
@@ -3418,7 +3702,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Frankentuar",
@@ -3430,7 +3715,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Imp-Throwing Gargantuar",
@@ -3442,7 +3728,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Disco-Tron 3000",
@@ -3454,7 +3741,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Gas Giant",
@@ -3466,7 +3754,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gargantuars' Feast",
@@ -3478,7 +3767,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Disco-Naut",
@@ -3490,7 +3780,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Barrel of Deadbeards",
@@ -3502,7 +3793,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Exploding Fruitcake",
@@ -3514,7 +3806,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Quasar Wizard",
@@ -3526,7 +3819,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Fireworks Zombie",
@@ -3538,7 +3832,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Moon Base Z",
@@ -3550,7 +3845,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bobblehead",
@@ -3562,7 +3858,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Stupid Cupid",
@@ -3574,7 +3871,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tankylosaurus",
@@ -3586,7 +3884,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Valkyrie",
@@ -3598,7 +3897,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gargantuar-Throwing Imp",
@@ -3610,7 +3910,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hippity Hop Gargantuar",
@@ -3622,7 +3923,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Admiral Navy Bean",
@@ -3634,7 +3936,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Iceberg Lettuce",
@@ -3646,7 +3949,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lily Pad",
@@ -3658,7 +3962,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lima-Pleurodon",
@@ -3670,7 +3975,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mars Flytrap",
@@ -3682,7 +3988,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Primal Peashooter",
@@ -3694,7 +4001,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shellery",
@@ -3706,7 +4014,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Snowdrop",
@@ -3718,7 +4027,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Weenie Beanie",
@@ -3730,7 +4040,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Bean",
@@ -3742,7 +4053,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Grave Mistake",
@@ -3754,7 +4066,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lightning Reed",
@@ -3766,7 +4079,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pear Pal",
@@ -3778,7 +4092,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Snow Pea",
@@ -3790,7 +4105,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cattail",
@@ -3802,7 +4118,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Chilly Pepper",
@@ -3814,7 +4131,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cool Bean",
@@ -3826,7 +4144,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mayflower",
@@ -3838,7 +4157,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Planet of the Grapes",
@@ -3850,7 +4170,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Rescue Radish",
@@ -3862,7 +4183,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Spring Bean",
@@ -3874,7 +4196,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Vanilla",
@@ -3886,7 +4209,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bean Counter",
@@ -3898,7 +4222,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Carrotillery",
@@ -3910,7 +4235,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Leaf Blower",
@@ -3922,7 +4248,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Navy Bean",
@@ -3934,7 +4261,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Snapdragon",
@@ -3946,7 +4274,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Winter Squash",
@@ -3958,7 +4287,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bird of Paradise",
@@ -3970,7 +4300,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Jolly Holly",
@@ -3982,7 +4313,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Jumping Bean",
@@ -3994,7 +4326,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Melon-Pult",
@@ -4006,7 +4339,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shooting Starfruit",
@@ -4018,7 +4352,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Smoosh-Shroom",
@@ -4030,7 +4365,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Threepeater",
@@ -4042,7 +4378,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sap-Fling",
@@ -4054,7 +4391,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tricorn",
@@ -4066,7 +4404,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Winter Melon",
@@ -4078,7 +4417,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Spyris",
@@ -4090,7 +4430,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bog of Enlightenment",
@@ -4102,7 +4443,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Laser Cattail",
@@ -4114,7 +4456,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Rotobaga",
@@ -4126,7 +4469,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sow Magic Beans",
@@ -4138,7 +4482,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Go-Nuts",
@@ -4150,7 +4495,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sportacus",
@@ -4162,7 +4508,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Jelly Bean",
@@ -4174,7 +4521,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shrinking Violet",
@@ -4186,7 +4534,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Snake Grass",
@@ -4198,7 +4547,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Witch Hazel",
@@ -4210,7 +4560,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Brainana",
@@ -4222,7 +4573,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Dark Matter Dragonfruit",
@@ -4234,7 +4586,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "The Great Zucchini",
@@ -4246,7 +4599,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Arm Wrestler",
@@ -4258,7 +4612,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Baseball Zombie",
@@ -4270,7 +4625,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Black Hole",
@@ -4282,7 +4638,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Camel Crossing",
@@ -4294,7 +4651,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Genetic Experiment",
@@ -4306,7 +4664,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Healthy Treat",
@@ -4318,7 +4677,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Planetary Gladiator",
@@ -4330,7 +4690,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Rolling Stone",
@@ -4342,7 +4703,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombie Middle Manager",
@@ -4354,7 +4716,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cone Zone",
@@ -4366,7 +4729,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Conehead",
@@ -4378,7 +4742,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Escape through Time",
@@ -4390,7 +4755,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Flag Zombie",
@@ -4402,7 +4768,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Gargologist",
@@ -4414,7 +4781,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Jurassic Fossilhead",
@@ -4426,7 +4794,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Leftovers",
@@ -4438,7 +4807,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sumo Wrestler",
@@ -4450,7 +4820,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Terrify",
@@ -4462,7 +4833,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Turkey Rider",
@@ -4474,7 +4846,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Celestial Custodian",
@@ -4486,7 +4859,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Sports Star",
@@ -4498,7 +4872,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Going Viral",
@@ -4510,7 +4885,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Knockout",
@@ -4522,7 +4898,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Landscaper",
@@ -4534,7 +4911,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Lost Colosseum",
@@ -4546,7 +4924,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Team Mascot",
@@ -4558,7 +4937,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Trash Can Zombie",
@@ -4570,7 +4950,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Weed Spray",
@@ -4582,7 +4963,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Buckethead",
@@ -4594,7 +4976,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Medic",
@@ -4606,7 +4989,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombie Coach",
@@ -4618,7 +5002,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombie King",
@@ -4630,7 +5015,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "All-Star Zombie",
@@ -4642,7 +5028,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Chum Champion",
@@ -4654,7 +5041,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Monster Mash",
@@ -4666,7 +5054,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Primeval Yeti",
@@ -4678,7 +5067,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Screen Door Zombie",
@@ -4690,7 +5080,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Coffee Zombie",
@@ -4702,7 +5093,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Defensive End",
@@ -4714,7 +5106,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Ra Zombie",
@@ -4726,7 +5119,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Undying Pharaoh",
@@ -4738,7 +5132,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot Battlecruiser 5000",
@@ -4750,7 +5145,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Knight of the Living Dead",
@@ -4762,7 +5158,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Rodeo Gargantuar",
@@ -4774,7 +5171,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Wannabe Hero",
@@ -4786,7 +5184,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombology Teacher",
@@ -4798,7 +5197,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bonus Track Buckethead",
@@ -4810,7 +5210,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Stompadon",
@@ -4822,7 +5223,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Turquoise Skull Zombie",
@@ -4834,7 +5236,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Intergalactic Warlord",
@@ -4846,7 +5249,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lil' Buddy",
@@ -4858,7 +5262,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bellflower",
@@ -4870,7 +5275,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmoss",
@@ -4882,7 +5288,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Kernel-Pult",
@@ -4894,7 +5301,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Morning Glory",
@@ -4906,7 +5314,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sunflower",
@@ -4918,7 +5327,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Apple-Saucer",
@@ -4930,7 +5340,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Eyespore",
@@ -4942,7 +5353,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Fume-Shroom",
@@ -4954,7 +5366,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Pepper M.D.",
@@ -4966,7 +5379,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sage Sage",
@@ -4978,7 +5392,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sun-Shroom",
@@ -4990,7 +5405,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Water Balloon",
@@ -5002,7 +5418,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "2nd-Best Taco of All Time",
@@ -5014,7 +5431,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Flower",
@@ -5026,7 +5444,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Jack O' Lantern",
@@ -5038,7 +5457,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mixed Nuts",
@@ -5050,7 +5470,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Solar Winds",
@@ -5062,7 +5483,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sunflower Seed",
@@ -5074,7 +5496,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sunnier-Shroom",
@@ -5086,7 +5509,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Venus Flytrap",
@@ -5098,7 +5522,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Whack-a-Zombie",
@@ -5110,7 +5535,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bloomerang",
@@ -5122,7 +5548,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Chomper",
@@ -5134,7 +5561,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Elderberry",
@@ -5146,7 +5574,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Heartichoke",
@@ -5158,7 +5587,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lawnmower",
@@ -5170,7 +5600,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Metal Petal Sunflower",
@@ -5182,7 +5613,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cross-Pollination",
@@ -5194,7 +5626,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Venus Flytraplanet",
@@ -5206,7 +5639,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Wing-Nut",
@@ -5218,7 +5652,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Astrocado",
@@ -5230,7 +5665,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Power Flower",
@@ -5242,7 +5678,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Squash",
@@ -5254,7 +5691,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Laser Bean",
@@ -5266,7 +5704,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Smashing Pumpkin",
@@ -5278,7 +5717,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Three-Headed Chomper",
@@ -5290,7 +5730,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Toadstool",
@@ -5302,7 +5743,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Haunted Pumpking",
@@ -5314,7 +5756,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Primal Sunflower",
@@ -5326,7 +5769,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Twin Sunflower",
@@ -5338,7 +5782,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Ketchup Mechanic",
@@ -5350,7 +5795,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Magnifying Grass",
@@ -5362,7 +5808,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Aloesaurus",
@@ -5374,7 +5821,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Briar Rose",
@@ -5386,7 +5834,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cob Cannon",
@@ -5398,7 +5847,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tactical Cuke",
@@ -5410,7 +5860,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Astro Vera",
@@ -5422,7 +5873,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cornucopia",
@@ -5434,7 +5886,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Swabbie",
@@ -5446,7 +5899,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Buried Treasure",
@@ -5458,7 +5912,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Ducky Tube Zombie",
@@ -5470,7 +5925,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Graveyard",
@@ -5482,7 +5938,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Headstone Carver",
@@ -5494,7 +5951,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Imp",
@@ -5506,7 +5964,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Imposter",
@@ -5518,7 +5977,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mini-Ninja",
@@ -5530,7 +5990,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Smoke Bomb",
@@ -5542,7 +6003,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombie Chicken",
@@ -5554,7 +6016,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Barrel of Barrels",
@@ -5566,7 +6029,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Dr. Spacetime",
@@ -5578,7 +6042,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Fire Rooster",
@@ -5590,7 +6055,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Fishy Imp",
@@ -5602,7 +6068,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Frosty Mustache",
@@ -5614,7 +6081,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hot Dog Imp",
@@ -5626,7 +6094,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Ice Pirate",
@@ -5638,7 +6107,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Imp-Throwing Imp",
@@ -5650,7 +6120,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Monkey Smuggler",
@@ -5662,7 +6133,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Swashbuckler Zombie",
@@ -5674,7 +6146,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Toxic Waste Imp",
@@ -5686,7 +6159,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Backyard Bounce",
@@ -5698,7 +6172,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cosmic Imp",
@@ -5710,7 +6185,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Excavator Zombie",
@@ -5722,7 +6198,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Imp Commander",
@@ -5734,7 +6211,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Laser Base Alpha",
@@ -5746,7 +6224,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Line Dancing Zombie",
@@ -5758,7 +6237,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Smelly Zombie",
@@ -5770,7 +6250,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Space Pirate",
@@ -5782,7 +6263,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Stealthy Imp",
@@ -5794,7 +6276,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Barrel Roller Zombie",
@@ -5806,7 +6289,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Firefighter",
@@ -5818,7 +6302,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Pogo Bouncer",
@@ -5830,7 +6315,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Blowgun Imp",
@@ -5842,7 +6328,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cryo-Yeti",
@@ -5854,7 +6341,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Mixed-Up Gravedigger",
@@ -5866,7 +6354,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Surprise Gargantuar",
@@ -5878,7 +6367,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Walrus Rider",
@@ -5890,7 +6380,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cursed Gargolith",
@@ -5902,7 +6393,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Zombot Aerostatic Gondola",
@@ -5914,7 +6406,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot Stomp",
@@ -5926,7 +6419,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot Plank Walker",
@@ -5938,7 +6432,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Captain Flameface",
@@ -5950,7 +6445,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Raiding Raptor",
@@ -5962,7 +6458,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombie High Diver",
@@ -5974,7 +6471,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Space Cowboy",
@@ -5986,7 +6484,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tomb Raiser Zombie",
@@ -5998,7 +6497,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Trapper Zombie",
@@ -6010,7 +6510,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": true
+            "gravestone": true,
+            "conjurable": true
         },
         {
             "name": "Unthawed Viking",
@@ -6022,7 +6523,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zombot Sharktronic Sub",
@@ -6034,7 +6536,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sappy Place",
@@ -6046,7 +6549,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Space Cadet",
@@ -6058,7 +6562,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Astrocado Pit",
@@ -6070,7 +6575,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Captain Deadbeard",
@@ -6082,7 +6588,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Hothead",
@@ -6094,7 +6601,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Zom-Bats",
@@ -6106,7 +6614,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Impfinity Clone",
@@ -6118,7 +6627,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Octo-Pet",
@@ -6130,7 +6640,8 @@
             "rarity": "",
             "superpower": false,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Embiggen",
@@ -6142,7 +6653,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Holo-Flora",
@@ -6154,7 +6666,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Time to Shine",
@@ -6166,7 +6679,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Big Chill",
@@ -6178,7 +6692,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Transmogrify",
@@ -6190,7 +6705,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Whirlwind",
@@ -6202,7 +6718,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Geyser",
@@ -6214,7 +6731,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Scorched Earth",
@@ -6226,7 +6744,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Weed Whack",
@@ -6238,7 +6757,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Meteor Strike",
@@ -6250,7 +6770,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "More Spore",
@@ -6262,7 +6783,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Storm Front",
@@ -6274,7 +6796,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Bubble Up",
@@ -6286,7 +6809,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Nut Signal",
@@ -6298,7 +6822,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Root Wall",
@@ -6310,7 +6835,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Ensign Uproot",
@@ -6322,7 +6848,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": true,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lieutenant Carrotron",
@@ -6334,7 +6861,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Lightspeed Seed",
@@ -6346,7 +6874,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Cut Down to Size",
@@ -6358,7 +6887,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Summoning",
@@ -6370,7 +6900,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Telepathy",
@@ -6382,7 +6913,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Dolphinado",
@@ -6394,7 +6926,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "In-Crypted",
@@ -6406,7 +6939,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Super Stench",
@@ -6418,7 +6952,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Brute Strength",
@@ -6430,7 +6965,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Dance Off",
@@ -6442,7 +6978,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Electrobolt",
@@ -6454,7 +6991,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Acid Rain",
@@ -6466,7 +7004,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Evaporate",
@@ -6478,7 +7017,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Galvanize",
@@ -6490,7 +7030,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Heroic Health",
@@ -6502,7 +7043,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Possessed",
@@ -6514,7 +7056,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Rock Wall",
@@ -6526,7 +7069,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Teleportation Station",
@@ -6538,7 +7082,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Ice Moon",
@@ -6550,7 +7095,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Iron Boarder",
@@ -6562,7 +7108,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Precision Blast",
@@ -6574,7 +7121,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Devour",
@@ -6586,7 +7134,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Blazing Bark",
@@ -6598,7 +7147,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Power Pummel",
@@ -6610,7 +7160,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Goatify",
@@ -6622,7 +7173,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Mush-Boom",
@@ -6634,7 +7186,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Peel Shield",
@@ -6646,7 +7199,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Genetic Amplification",
@@ -6658,7 +7212,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Sunburn",
@@ -6670,7 +7225,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Uncrackable",
@@ -6682,7 +7238,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Tater Toss",
@@ -6694,7 +7251,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Carried Away",
@@ -6706,7 +7264,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Terror-Former 10,000",
@@ -6718,7 +7277,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Eureka",
@@ -6730,7 +7290,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Witch's Familiar",
@@ -6742,7 +7303,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Shrink Ray",
@@ -6754,7 +7316,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Triple Threat",
@@ -6766,7 +7329,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Frozen Tundra",
@@ -6778,7 +7342,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Octo-Pult",
@@ -6790,7 +7355,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Stayin' Alive",
@@ -6802,7 +7368,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Missile Madness",
@@ -6814,7 +7381,8 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
         },
         {
             "name": "Slammin' Smackdown",
@@ -6826,7 +7394,47 @@
             "rarity": "",
             "superpower": true,
             "amphibious": false,
-            "gravestone": false
+            "gravestone": false,
+            "conjurable": true
+        },
+        {
+            "name": "Magic Beanstalk",
+            "side": "",
+            "tribe": [],
+            "set": "",
+            "type": "",
+            "cost": -1,
+            "rarity": "",
+            "superpower": false,
+            "amphibious": false,
+            "gravestone": false,
+            "conjurable": false
+        },
+        {
+            "name": "Pot of Gold",
+            "side": "",
+            "tribe": [],
+            "set": "",
+            "type": "",
+            "cost": -1,
+            "rarity": "",
+            "superpower": false,
+            "amphibious": false,
+            "gravestone": false,
+            "conjurable": false
+        },
+        {
+            "name": "Zombie",
+            "side": "",
+            "tribe": [],
+            "set": "",
+            "type": "",
+            "cost": -1,
+            "rarity": "",
+            "superpower": false,
+            "amphibious": false,
+            "gravestone": false,
+            "conjurable": false
         }
     ]
 }
