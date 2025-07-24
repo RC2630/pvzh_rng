@@ -1,10 +1,43 @@
+from __future__ import annotations
 from io import TextIOWrapper as File
 from json import load as json_to_dict
 from typing import Any, Callable
 from random import randint as lib_randint
 
+# --------------------------------------------------------------------
+
+class Card:
+
+    def __init__(self: Card, info: dict[str, Any]) -> None:
+        self.name: str = info["name"]
+        self.side: str = info["side"]
+        self.tribe_list: list[str] = info["tribe"]
+        self.set: str = info["set"]
+        self.type: str = info["type"]
+        self.cost: int = info["cost"]
+        self.rarity: str = info["rarity"]
+        self.is_superpower: bool = info["superpower"]
+        self.is_amphibious: bool = info["amphibious"]
+        self.is_gravestone: bool = info["gravestone"]
+
+    def is_available(self: Card) -> bool:
+        return self.cost != -1
+    
+    def __str__(self: Card) -> str:
+        result: str = f"name = {self.name}\n"
+        for attribute in dir(self):
+            if not attribute.startswith("__") and attribute not in ["name", "is_available"]:
+                result += f"{attribute} = {eval(f'self.{attribute}')}\n"
+        result += f"is_available = {self.is_available()}"
+        return result
+
+    def __repr__(self: Card) -> str:
+        return self.__str__()
+
+# --------------------------------------------------------------------
+
 cards_file: File = open("reference/cards.json", "r")
-ALL_CARDS: list[dict[str, Any]] = json_to_dict(cards_file)["cards"]
+ALL_CARDS: list[Card] = [Card(card) for card in json_to_dict(cards_file)["cards"]]
 cards_file.close()
 
 supers_file: File = open("reference/superpowers.json", "r")
@@ -67,6 +100,13 @@ def randint(args: list[str]) -> str:
 
 def test_deck(args: list[str]) -> str:
     return f"{len(DECK)}: {DECK}\n\n{len(SUPERPOWERS)}: {SUPERPOWERS}"
+
+def test_cards(args: list[str]) -> str:
+    result: str = ""
+    for i in range(int(args[0])):
+        ri: int = random_index(ALL_CARDS)
+        result += f"{ALL_CARDS[ri]}\n\n"
+    return result[:-2]
 
 # --------------------------------------------------------------------
 
@@ -141,7 +181,8 @@ COMMAND_TO_FUNCTION: dict[str, Callable[[list[str]], str]] = {
     "/block": block,
     "/shuffle": shuffle,
     "/randint": randint,
-    "$deck": test_deck
+    "$deck": test_deck,
+    "$cards": test_cards
 }
 
 while True:
