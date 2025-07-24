@@ -23,10 +23,17 @@ class Card:
     def is_available(self: Card) -> bool:
         return self.cost != -1
     
+    def has_one_of_tribes(self: Card, acceptable_tribes: list[str]) -> bool:
+        for tribe in acceptable_tribes:
+            if tribe in self.tribe_list:
+                return True
+        return False
+    
     def __str__(self: Card) -> str:
+        attribute_exclusion_list: list[str] = ["name", "is_available", "has_one_of_tribes"]
         result: str = f"name = {self.name}\n"
         for attribute in dir(self):
-            if not attribute.startswith("__") and attribute not in ["name", "is_available"]:
+            if not attribute.startswith("__") and attribute not in attribute_exclusion_list:
                 result += f"{attribute} = {eval(f'self.{attribute}')}\n"
         result += f"is_available = {self.is_available()}"
         return result
@@ -64,6 +71,13 @@ deck_file.close()
 
 def random_index(l: list[Any]) -> int:
     return lib_randint(0, len(l) - 1)
+
+def is_number(x: Any) -> bool:
+    try:
+        float(x)
+        return True
+    except ValueError:
+        return False
 
 # --------------------------------------------------------------------
 
@@ -170,7 +184,64 @@ def start() -> None:
 # --------------------------------------------------------------------
 
 def conjure(args: list[str]) -> str:
-    raise NotImplementedError
+    
+    conjure_set: list[Card] = [card for card in ALL_CARDS if card.is_available()]
+
+    if "amphibious" in args:
+        conjure_set = [card for card in conjure_set if card.is_amphibious]
+
+    if "gravestone" in args:
+        conjure_set = [card for card in conjure_set if card.is_gravestone]
+
+    if "superpower" in args:
+        conjure_set = [card for card in conjure_set if card.is_superpower]
+    else:
+        conjure_set = [card for card in conjure_set if not card.is_superpower]
+
+    key_value_pairs: dict[str, str] = {}
+    for arg in args:
+        if ":" in arg:
+            key_value_split: list[str] = arg.split(":")
+            key_value_pairs[key_value_split[0]] = key_value_split[1]
+
+    for key, value in key_value_pairs.items():
+
+        if key == "side":
+            conjure_set = [card for card in conjure_set if card.side == value]
+        elif key == "set":
+            conjure_set = [card for card in conjure_set if card.set == value]
+        elif key == "type":
+            conjure_set = [card for card in conjure_set if card.type == value]
+        elif key == "rarity":
+            conjure_set = [card for card in conjure_set if card.rarity == value]
+
+        elif key == "tribe":
+            acceptable_tribes: list[str] = value.split("|")
+            conjure_set = [
+                card for card in conjure_set if card.has_one_of_tribes(acceptable_tribes)
+            ]
+
+        elif key == "cost":
+            if value.startswith("<="):
+                maximum: int = int(value[2:])
+                conjure_set = [card for card in conjure_set if card.cost <= maximum]
+            elif value.startswith(">="):
+                minimum: int = int(value[2:])
+                conjure_set = [card for card in conjure_set if card.cost >= minimum]
+            else:
+                exact_cost: int = int(value)
+                conjure_set = [card for card in conjure_set if card.cost == exact_cost]
+
+    if len(conjure_set) == 0:
+        return "No cards can be conjured based on these criteria."
+    
+    count: int = int(args[-1]) if is_number(args[-1]) else 1
+    result: list[str] = []
+    for i in range(count):
+        ri: int = random_index(conjure_set)
+        result.append(conjure_set[ri].name)
+    
+    return ", ".join(result)
 
 # --------------------------------------------------------------------
 
