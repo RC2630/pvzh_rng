@@ -11,15 +11,15 @@ class Card:
     def __init__(self: Card, info: dict[str, Any]) -> None:
         self.name: str = info["name"]
         self.side: str = info["side"]
-        self.tribe_list: list[str] = info["tribe"]
+        self.tribe_list: list[str] = info["tribes"]
         self.set: str = info["set"]
         self.type: str = info["type"]
         self.cost: int = info["cost"]
         self.rarity: str = info["rarity"]
-        self.is_superpower: bool = info["superpower"]
-        self.is_amphibious: bool = info["amphibious"]
-        self.is_gravestone: bool = info["gravestone"]
-        self.is_conjurable: bool = info["conjurable"]
+        self.is_superpower: bool = "superpower" in info["tags"]
+        self.is_amphibious: bool = "amphibious" in info["traits"]
+        self.is_gravestone: bool = "gravestone" in info["traits"]
+        self.is_conjurable: bool = not "unconjurable" in info["tags"]
 
     def is_available(self: Card) -> bool:
         return self.cost != -1 and self.is_conjurable
